@@ -1,5 +1,7 @@
 # Mastering PyCharm course
 
+#test!
+
 [![](./readme_resources/mastering-pycharm-sm.jpg)](https://training.talkpython.fm/courses/explore_pycharm/mastering-pycharm-ide)
 
 [Visit course page](https://training.talkpython.fm/courses/explore_pycharm/mastering-pycharm-ide)
